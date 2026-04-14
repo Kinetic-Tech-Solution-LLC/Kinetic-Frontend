@@ -86,10 +86,11 @@ Kinetic Tech Solution LLC was born from a desire to build the tool we wish exist
 
 ## 📂 Public Asset Hub
 
-We believe in professional transparency. While the source code remains proprietary, we provide our brand assets for community and press use in the `public/` directory:
+We believe in professional transparency. While the source code remains proprietary, we provide our brand assets and technical highlights for community and press use:
 
 - **/public/logo**: High-resolution 3D logos and brand guidelines.
 - **/public/animations**: Cinematic Lottie and MP4 animations driving the high-fidelity UI.
+- **/highlights**: Source code for key frontend technical achievements (e.g., [KineticLogo3D.tsx](highlights/KineticLogo3D.tsx)).
 
 ---
 
