@@ -39,6 +39,22 @@ Today marks the release of **V1.5.0**, a major modernization milestone that alig
 
 The Kinetic Frontend is engineered for maximum performance and absolute data sovereignty. It acts as the primary interface for the development community and enterprise partners.
 
+### **High-Fidelity 3D Baseline**
+The V1.5.0 release introduces a standard for **3D Interaction Fidelity**, powered by the `KineticLogo3D` interactive engine:
+- **Magnetic Tilt Interface**: Real-time cursor-tracking physics for brand signatures.
+- **Vertex Energy Flows**: Dynamic shader-based atmospheric effects.
+- **Atmospheric Depth**: Multi-layered glassmorphic compositions with high-performance bloom.
+
+---
+
+## 🔬 Technical Deep Dive: The 3D Engine
+
+To showcase the engineering quality behind the Kinetic interface, we have included the source code for our signature 3D brand interaction.
+
+- **[KineticLogo3D.tsx](highlights/KineticLogo3D.tsx)**: Explore the Three.js and GSAP logic driving the magnetic "K" logo, vertex energy rings, and interactive smoothing.
+
+---
+
 ### **Core Stack**
 - **Next.js 15**: Leveraging the latest App Router and asynchronous request handling.
 - **Framer Motion**: Powering the atmospheric "Energy Flow" and interactive 3D logos.
